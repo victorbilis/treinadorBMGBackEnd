@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------
 
-<img src="/assets/logo.png"/>
+<img src="https://github.com/BrunoEleodoro/hackathonbmg/assets/logo.png"/>
 
 ## 📖 Minha Treinadora BMG (BACK-END)
 
